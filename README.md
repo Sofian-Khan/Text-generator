@@ -1,5 +1,5 @@
 
-This project implements a retrieval-augmented model for answering questions. It utilizes Lamini for text embeddings, FAISS for efficient nearest neighbor search, and Streamlit for presenting it on a web interface.
+This project implements a retrieval-augmented, Mistral (an open-source pre-trained Large Language Model) for answering questions. It utilizes Lamini for text embeddings, FAISS for efficient nearest neighbor search, and Streamlit for presenting it on a web interface.
 
 Output
 ![image](https://github.com/Sofian-Khan/Text-generator/assets/107492899/5df8f0a8-ad00-482d-8950-22840d11563a)
