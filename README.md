@@ -1,6 +1,6 @@
 Project Title
 Description
-This project implements a retrieval-augmented model for answering questions. It utilizes Lamini for text generation and FAISS for efficient nearest neighbor search.
+This project implements a retrieval-augmented model for answering questions. It utilizes Lamini for text generation, FAISS for efficient nearest neighbor search, and Streamlit for presenting it on a web interface.
 
 Output
 ![image](https://github.com/Sofian-Khan/Text-generator/assets/107492899/5df8f0a8-ad00-482d-8950-22840d11563a)
