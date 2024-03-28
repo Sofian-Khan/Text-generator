@@ -8,5 +8,3 @@ Output
 
 
 
-Acknowledgments
-This project was inspired by Lamini and FAISS.
