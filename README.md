@@ -1,4 +1,4 @@
-Project Title
+Text generator
 Description
 This project implements a retrieval-augmented model for answering questions. It utilizes Lamini for text embeddings, FAISS for efficient nearest neighbor search, and Streamlit for presenting it on a web interface.
 
